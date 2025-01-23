@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_application_1
 
 A new Flutter project.
@@ -14,3 +15,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Flutter App IDCamp Study Case
+This is a study case of Flutter CLass by IDCamp - Dicoding X Indosat
+
+A Simple Flutter App
+Film Catalogue
+>>>>>>> dd8b948a3f1db817447e9148ccc6bdaab72977b8
